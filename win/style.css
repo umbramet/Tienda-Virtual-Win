@@ -229,3 +229,8 @@ nav ul li a {
     justify-content: center;
     display: flex;
 }
+
+.cliente1 p{
+
+    position: relative; height: 120px;
+}
